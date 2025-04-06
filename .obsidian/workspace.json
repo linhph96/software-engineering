@@ -213,9 +213,9 @@
   },
   "active": "6fb0a5b607010fdf",
   "lastOpenFiles": [
-    "pages/backend/Proxy.md",
-    "pages/backend/Load Balancer.md",
     "pages/backend/index.md",
+    "pages/backend/Load Balancer.md",
+    "pages/backend/Proxy.md",
     "pages/aws/devops/page2.md",
     "pages/aws/devops/page1.md",
     "pages/aws/architecture/page1.md",
