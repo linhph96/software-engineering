@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "pages/backend/Load Balancer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Load Balancer"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "pages/backend/Load Balancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Load Balancer"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "pages/backend/Load Balancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Load Balancer"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "pages/backend/Load Balancer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Load Balancer"
             }
           }
         ]
@@ -213,20 +213,20 @@
   },
   "active": "6fb0a5b607010fdf",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "pages/backend/index.md",
-    "pages/backend/proxy.md",
+    "pages/backend/Proxy.md",
     "pages/backend/Load Balancer.md",
+    "pages/backend/index.md",
+    "pages/aws/devops/page2.md",
+    "pages/aws/devops/page1.md",
+    "pages/aws/architecture/page1.md",
     "pages/aws/architecture/index.md",
     "index.md",
+    "Untitled.canvas",
     "pages/about.md",
     "pages/sofware-engineering/page2.md",
     "pages/AWS.md",
     "pages/aws/architecture/page2.md",
-    "pages/aws/devops/page1.md",
     "pages/sofware-engineering/page1.md",
-    "pages/aws/architecture/page1.md",
-    "pages/aws/devops/page2.md",
     "pages/backend"
   ]
 }
