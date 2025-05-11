@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-* TOC
-  {:toc}
+{:toc}
+
 # Design Pattern (DP)
 ## Các khái niệm chung
 ### Design Pattern là gì?
@@ -22,3 +22,5 @@ Thông thường các DP được phân loại theo mục đích sử dụng c�
 **Creational patterns:** Cung cấp c chế khở tạo đối tượng giúp tăng tính linh hoạt và khả năng tái sử dụng code. \
 **Structural patterns:** Lắp ghép các đối tượng và lớp thành các cấu trúc lớn hơn, đồng thời giữ cho các cấu trúc này linh hoạt và hiệu quả hơn. \
 **Behavioral patterns:** Đảm bảo giao tiếp hiệu quả và phân công vai trò giữa các đối tượng
+
+{:toc}
