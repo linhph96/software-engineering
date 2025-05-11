@@ -1,6 +1,8 @@
 ---
 layout: default
+toc: true
 ---
+
 {:toc}
 
 # Design Pattern (DP)
