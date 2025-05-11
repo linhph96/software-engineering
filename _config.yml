@@ -2,3 +2,4 @@ title: Linh Pham Hai Github Page
 description: Linh Pham Hai Github Page for Software Engineering and Cloud Development
 show_downloads: false
 theme: jekyll-theme-cayman
+markdown: kramdown
